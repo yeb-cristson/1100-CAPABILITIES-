@@ -1,0 +1,6 @@
+{
+  "name": "1100 CAPABILITIES",
+  "description": "Physical Reconnaissance & RF Sweeping Suite - Zero-mock multi-sensor passive detection, airspace radar, subnet hunter, EM sweeper, camera discovery, and evidence capture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
